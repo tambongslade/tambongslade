@@ -5,7 +5,8 @@
 <!-- <br>
 <br> -->
 <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=roboto&size=28&duration=3000&pause=500&center=true&vCenter=true&width=998&height=53&lines=Hi;I'm+Tambong Kersten...;A+FullStack+web+developer...;A+Fullstack+mobile+Developer;JavaFx+Developer;From+Cameroon;Nice+to+meet+you+😁;Happy+to+Meet+You" alt="Typing SVG" /></a>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif"/>
+
+
 <img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/R.850477fed08bfe98598082bcd309ce70?rik=9l9aIUrNeKA%2fPw&pid=ImgRaw&r=0">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tambongslade&label=Profile%20views&color=0e75b6&style=flat" alt="tambongslade" /> </p>
