@@ -4,7 +4,7 @@
 
 <!-- <br>
 <br> -->
-<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=roboto&size=28&duration=3000&pause=500&center=true&vCenter=true&width=998&height=53&lines=Hi;I'm+Tambong Kersten...;A+FullStack+web+developer...;A+Fullstack+mobile+Developer;JavaFx+Developer;From+Cameroon;Nice+to+meet+you+😁;Happy+to+Meet+You" alt="Typing SVG" /></a>
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=roboto&size=28&duration=3000&pause=500&center=true&vCenter=true&width=998&height=53&lines=Hi;I'm+Tambong Kersten...;A+FullStack+web+developer...;A+Fullstack+mobile+Developer;JavaFx+Developer;From+Cameroon;Nice+to+meet+you+😁;we+could+play+call+of+duty" alt="Typing SVG" /></a>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif"/>
 <img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/R.850477fed08bfe98598082bcd309ce70?rik=9l9aIUrNeKA%2fPw&pid=ImgRaw&r=0">
 
@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **tambongslade17@gmail.com**
 
-- ⚡ Fun fact **A Gamer. Funny and Serious Guy**
+- ⚡ Fun fact **A call of duty Gamer. Funny but Serious Guy, 🤣**
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tambongslade" alt="tambongslade" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/tambongslade" target="blank"><img src="https://img.shields.io/twitter/follow/tambongslade?logo=twitter&style=for-the-badge" alt="tambongslade" /></a> </p>
