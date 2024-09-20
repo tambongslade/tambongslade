@@ -12,11 +12,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tambongslade&label=Profile%20views&color=0e75b6&style=flat" alt="tambongslade" /> </p>
 
 
-- 🔭 I’m currently working on **Clima Weather App**
+- 🔭 I’m currently working on **SPOTT**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Data Analysis**
 
-- 👯 I’m looking to collaborate on **Flutter and Java projects**
+- 👯 I’m looking to collaborate on **Flutter and nodejs projects**
 
 - 🤝 I’m looking for help with **Coding**
 
